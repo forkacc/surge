@@ -1,0 +1,51 @@
+// Normal
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,data.flurry.com
+DOMAIN-SUFFIX,mmstat.com
+
+// Android
+DOMAIN-SUFFIX,jpush.binance.im
+DOMAIN-SUFFIX,sdk.open.talk.getui.net
+DOMAIN-SUFFIX,sdk.open.talk.gepush.com
+
+// CN
+DOMAIN-SUFFIX,gd-stats.jpush.cn
+DOMAIN-SUFFIX,ebjvu.cn
+
+// Google
+DOMAIN-SUFFIX,google-analytics.com,REJECT
+
+// Amazon
+DOMAIN-SUFFIX,amazon-adsystem.com
+
+// Facebook + Instagram
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,graph.instagram.com
+
+// Aliyun + Taobao
+DOMAIN-SUFFIX,log.aliyuncs.com
+
+DOMAIN-SUFFIX,market.m.taobao.com
+DOMAIN-SUFFIX,amdc.m.taobao.com
+DOMAIN-SUFFIX,adashx.m.taobao.com
+
+// Xiaomi
+DOMAIN-SUFFIX,mistat.intl.xiaomi.com
+DOMAIN-SUFFIX,metok-ccc.intl.xiaomi.com
+
+// Baidu
+DOMAIN-SUFFIX,hm.baidu.com
+DOMAIN-SUFFIX,cpro.baidu.com
+DOMAIN-SUFFIX,drmcmm.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
+
+// Weibo
+DOMAIN-SUFFIX,weico.cc
+DOMAIN-SUFFIX,overseas.weico.cc
+DOMAIN-SUFFIX,log.weico.cc
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+
+// Netease
+DOMAIN-SUFFIX,mam.netease.com
