@@ -1,0 +1,16 @@
+// Github
+DOMAIN-SUFFIX,api.github.com
+// Amazon
+DOMAIN-SUFFIX,api.amazon.com
+DOMAIN-SUFFIX,cloudfront.net
+// Dropbox
+DOMAIN-SUFFIX,api-content.dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,api.dropbox.com
+// ProtonMail
+DOMAIN-SUFFIX,api.protonmail.ch
+// Weibo
+DOMAIN-SUFFIX,api.weibo.cn
+DOMAIN-SUFFIX,sinaimg.cn
+// Others
+DOMAIN-SUFFIX,mugglecoding.com
