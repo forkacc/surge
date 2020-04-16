@@ -1,10 +1,3 @@
-// Keyword
-DOMAIN-KEYWORD,usage
-DOMAIN-KEYWORD,tracking
-DOMAIN-KEYWORD,adservice
-DOMAIN-KEYWORD,adwords
-DOMAIN-KEYWORD,lianmeng
-
 // Normal
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,app-measurement.com
@@ -17,23 +10,31 @@ DOMAIN-SUFFIX,jpush.binance.im
 DOMAIN-SUFFIX,sdk.open.talk.getui.net
 DOMAIN-SUFFIX,sdk.open.talk.gepush.com
 
-// Google
+// Google & Google like
+DOMAIN-SUFFIX,googlew.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleanalytcs.com
+DOMAIN-SUFFIX,googleanalytics.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,csi.gstatic.com
+
+// YouTube
+DOMAIN-SUFFIX,toptools100.com
 
 // Amazon
 DOMAIN-SUFFIX,amazon-adsystem.com
 
 // Facebook + Instagram
+DOMAIN-SUFFIX,an.facebook.com
+DOMAIN-SUFFIX,connect.facebook.com
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,graph.instagram.com
 
 // Aliyun + Taobao
 DOMAIN-SUFFIX,log.aliyuncs.com
-
 DOMAIN-SUFFIX,market.m.taobao.com
 DOMAIN-SUFFIX,amdc.m.taobao.com
 DOMAIN-SUFFIX,adashx.m.taobao.com
@@ -78,4 +79,60 @@ DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,events.mapbox.com
 DOMAIN-SUFFIX,events.jianshu.io
 DOMAIN-SUFFIX,push.wandoujia.com
+DOMAIN-SUFFIX,adlook.me
+DOMAIN-SUFFIX,appads.com
+DOMAIN-SUFFIX,bat.bing.com
+DOMAIN-SUFFIX,cps.360buy.com
+DOMAIN-SUFFIX,x.jd.com
 
+// ADs
+DOMAIN-SUFFIX,o0-1.com
+DOMAIN-SUFFIX,o0-2.com
+DOMAIN-SUFFIX,o0-3.com
+DOMAIN-SUFFIX,o0-4.com
+DOMAIN-SUFFIX,o0-5.com
+DOMAIN-SUFFIX,o0-6.com
+DOMAIN-SUFFIX,o0-7.com
+DOMAIN-SUFFIX,o0-8.com
+DOMAIN-SUFFIX,o0-9.com
+DOMAIN-SUFFIX,adsubon.com
+DOMAIN-SUFFIX,4x4x2.xyz
+DOMAIN-SUFFIX,instantresp.com
+DOMAIN-SUFFIX,fstats.xyz
+DOMAIN-SUFFIX,rtmark.net
+DOMAIN-SUFFIX,free-girls-vids.com
+DOMAIN-SUFFIX,bebreloomr.com
+DOMAIN-SUFFIX,sg2rgnza7k9t.com
+DOMAIN-SUFFIX,nr-data.net
+DOMAIN-SUFFIX,gearbest.com
+DOMAIN-SUFFIX,logsss.com
+DOMAIN-SUFFIX,prpops.com
+DOMAIN-SUFFIX,watchmygirlfriend.to
+DOMAIN-SUFFIX,lofv.xyz
+DOMAIN-SUFFIX,popmonetizer.net
+DOMAIN-SUFFIX,zeusadx.com
+DOMAIN-SUFFIX,popads.net
+DOMAIN-SUFFIX,special-offers.online
+DOMAIN-SUFFIX,dtscout.com
+DOMAIN-SUFFIX,trackthetides.club
+DOMAIN-SUFFIX,kaipirinhaloka.xyz
+DOMAIN-SUFFIX,auxml.com
+DOMAIN-SUFFIX,jeinvegpool.com
+DOMAIN-SUFFIX,veviopass.com
+DOMAIN-SUFFIX,zap.buzz
+DOMAIN-SUFFIX,adexchangesrv.com
+DOMAIN-SUFFIX,adrunnr.com
+DOMAIN-SUFFIX,milfsurvey.com
+DOMAIN-SUFFIX,exosrv.com
+DOMAIN-SUFFIX,ie8eamus.com
+DOMAIN-SUFFIX,adsco.re
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,eyeota.net
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,adsymptotic.com
+DOMAIN-SUFFIX,doyourmove.com
+DOMAIN-SUFFIX,gtarcade.com
+DOMAIN-SUFFIX,gearbest.com
+DOMAIN-SUFFIX,protoawe.com
+DOMAIN-SUFFIX,t7rsx24c5.com
+DOMAIN-SUFFIX,bongacams.com
