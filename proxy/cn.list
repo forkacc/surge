@@ -2,7 +2,7 @@
 // PROCESS-NAME,/Applications/NeteaseMusic.app/Contents/MacOS/NeteaseMusic // NeteaseMusic (MacOS App)
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,music.163.com
-DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,music.126.net
 
 // Others
 DOMAIN-SUFFIX,qnsdk.com
