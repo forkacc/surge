@@ -1,7 +1,7 @@
 // Github
-DOMAIN-SUFFIX,forkacc.github.io
-DOMAIN-SUFFIX,api.github.com
-DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN,forkacc.github.io
+DOMAIN,api.github.com
+DOMAIN,raw.githubusercontent.com
 
 // Amazon
 DOMAIN-SUFFIX,api.amazon.com
