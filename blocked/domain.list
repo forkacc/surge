@@ -66,7 +66,8 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 
 // Netease
-DOMAIN-SUFFIX,mam.netease.com
+DOMAIN,mam.netease.com
+DOMAIN-SUFFIX,127.net
 
 // CN
 DOMAIN-SUFFIX,jpush.cn
