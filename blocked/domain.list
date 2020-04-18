@@ -75,6 +75,9 @@ DOMAIN-SUFFIX,immob.cn
 
 // Others
 DOMAIN-SUFFIX,jpush.io
+DOMAIN-SUFFIX,jpush.binance.im
+DOMAIN-SUFFIX,talk.getui.net
+DOMAIN-SUFFIX,talk.gepush.com
 DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,events.mapbox.com
 DOMAIN-SUFFIX,events.jianshu.io
