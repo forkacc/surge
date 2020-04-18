@@ -8,12 +8,24 @@ DOMAIN-SUFFIX,api.amazon.com
 DOMAIN-SUFFIX,cloudfront.net
 
 // Dropbox
+PROCESS-NAME,/Applications/Dropbox.app/Contents/MacOS/Dropbox // Dropbox (MacOS App)
+DOMAIN,client.dropbox.com
 DOMAIN-SUFFIX,api-content.dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,api.dropbox.com
 
-// ProtonMail
-DOMAIN-SUFFIX,api.protonmail.ch
+// Google
+PROCESS-NAME,/Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync // Backup and Sync (MacOS App)
+DOMAIN,fcmconnection.googleapis.com                                           // Google Drive
+
+// Spark & Email
+DOMAIN,app.smartmailcloud.com   // Spark
+DOMAIN-SUFFIX,api.protonmail.ch // Proton Mail
+DOMAIN,imap.gmail.com           // IMAP Gmail
+DOMAIN,imap-mail.outlook.com    // IMAP Outlook
+
+// WeChat
+DOMAIN,mp.weixin.qq.com // WGC
 
 // Weibo
 DOMAIN-SUFFIX,api.weibo.cn
