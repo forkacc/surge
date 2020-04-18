@@ -10,27 +10,34 @@ DOMAIN-SUFFIX,cloudfront.net
 // Dropbox
 PROCESS-NAME,/Applications/Dropbox.app/Contents/MacOS/Dropbox // Dropbox (MacOS App)
 DOMAIN,client.dropbox.com
-DOMAIN-SUFFIX,api-content.dropbox.com
+DOMAIN,api-content.dropbox.com
+DOMAIN,api.dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
-DOMAIN-SUFFIX,api.dropbox.com
 
 // Google
 PROCESS-NAME,/Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync // Backup and Sync (MacOS App)
-DOMAIN,fcmconnection.googleapis.com                                           // Google Drive
+DOMAIN,fcmconnection.googleapis.com // Google Drive
 DOMAIN,www.googleapis.com
+DOMAIN,fonts.googleapis.com
+DOMAIN,maps.googleapis.com
+DOMAIN,fonts.gstatic.com
 
 // Spark & Email
-DOMAIN,app.smartmailcloud.com   // Spark
-DOMAIN-SUFFIX,api.protonmail.ch // Proton Mail
-DOMAIN,imap.gmail.com           // IMAP Gmail
-DOMAIN,imap-mail.outlook.com    // IMAP Outlook
+DOMAIN,app.smartmailcloud.com // Spark
+DOMAIN,api.protonmail.ch // Proton Mail
+DOMAIN,imap.gmail.com // IMAP Gmail
+DOMAIN,imap-mail.outlook.com // IMAP Outlook
 
 // WeChat
-DOMAIN,mp.weixin.qq.com // WGC
+DOMAIN,mp.weixin.qq.com
 
 // Weibo
-DOMAIN-SUFFIX,api.weibo.cn
+DOMAIN,api.weibo.cn
 DOMAIN-SUFFIX,sinaimg.cn
+
+// js cdn
+DOMAIN,cdnjs.cloudflare.com
+DOMAIN,cdn.jsdelivr.net
 
 // Others
 DOMAIN-SUFFIX,mugglecoding.com
