@@ -21,4 +21,15 @@
     - [Surge 使用手册 - 入门|规则|策略组|DNS|Rewrite&MitM|去广告|完结](https://chua.pro/more/subject-index/surge-manual/)
 
 - Main Setting
-  - [General], [Proxy], [Proxy Group], [Rule], [Host], [URL Rewrite], [Header Rewrite], [SSID Setting], [MITM]
+
+    ```
+    [General] 
+    [Proxy]
+    [Proxy Group]
+    [Rule]
+    [Host]
+    [URL Rewrite]
+    [Header Rewrite]
+    [SSID Setting]
+    [MITM]
+    ``` 
