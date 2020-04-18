@@ -1,5 +1,12 @@
+// duckduckgo
 DOMAIN-SUFFIX,duckduckgo.com
-DOMAIN-SUFFIX,twitter.com
+
+// Telegram
 DOMAIN-SUFFIX,telegra.ph
+
+// Twitter
+DOMAIN-SUFFIX,twitter.com
+
+// Others
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,bloomberg.com
