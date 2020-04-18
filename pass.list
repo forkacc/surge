@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,dropboxapi.com
 PROCESS-NAME,/Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync // Backup and Sync (MacOS App)
 DOMAIN,fcmconnection.googleapis.com // Google Drive
 DOMAIN,www.googleapis.com
+DOMAIN,ajax.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,maps.googleapis.com
 DOMAIN,fonts.gstatic.com
