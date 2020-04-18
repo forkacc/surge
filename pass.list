@@ -8,14 +8,14 @@ DOMAIN-SUFFIX,api.amazon.com
 DOMAIN-SUFFIX,cloudfront.net
 
 // Dropbox
-PROCESS-NAME,/Applications/Dropbox.app/Contents/MacOS/Dropbox // Dropbox (MacOS App)
+// PROCESS-NAME,/Applications/Dropbox.app/Contents/MacOS/Dropbox // Dropbox (MacOS App)
 DOMAIN,client.dropbox.com
 DOMAIN,api-content.dropbox.com
 DOMAIN,api.dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 
 // Google
-PROCESS-NAME,/Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync // Backup and Sync (MacOS App)
+// PROCESS-NAME,/Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync // Backup and Sync (MacOS App)
 DOMAIN,fcmconnection.googleapis.com // Google Drive
 DOMAIN,www.googleapis.com
 DOMAIN,ajax.googleapis.com
