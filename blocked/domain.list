@@ -1,5 +1,5 @@
 // Normal
-DOMAIN-SUFFIX,crashlytics.com
+// DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,mmstat.com
