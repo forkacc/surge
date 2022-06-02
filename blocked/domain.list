@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,market.m.taobao.com
 DOMAIN-SUFFIX,amdc.m.taobao.com
 DOMAIN-SUFFIX,adashx.m.taobao.com
+DOMAIN-SUFFIX,h-adashx.ut.taobao.com // Added for webpage: h-adashx.ut.taobao.com:443
+DOMAIN-SUFFIX,mpush-api.aliyun.com // Added for webpage: mpush-api.aliyun.com:443
+DOMAIN-SUFFIX,alicloudccp.com // Added for webpage: bj29.cn-beijing.data.alicloudccp.com:443
 
 // Xiaomi
 DOMAIN-SUFFIX,mistat.intl.xiaomi.com
