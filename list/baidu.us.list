@@ -1,5 +1,7 @@
 // Baidu US
-// PROCESS-NAME,/Applications/NeteaseMusic.app/Contents/MacOS/NeteaseMusic // NeteaseMusic (MacOS App)
+
+PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/Frameworks/BaiduNetdisk_mac Helper.app/Contents/MacOS/BaiduNetdisk_mac Helper
+
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bcebos.com
