@@ -1,4 +1,4 @@
-URL-REGEX,ad\..*
+# URL-REGEX,ad\..*
 URL-REGEX,ads.*
 URL-REGEX,analytics?\..*
 URL-REGEX,logs?\..*
