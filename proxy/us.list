@@ -1,4 +1,4 @@
-// duckduckgo
+// Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.com
 
 // Telegram
@@ -7,6 +7,12 @@ DOMAIN-SUFFIX,telegra.ph
 // Twitter
 DOMAIN-SUFFIX,twitter.com
 
+// GitHub
+DOMAIN-SUFFIX,github.githubusercontent.com
+DOMAIN-SUFFIX,github.githubassets.com
+DOMAIN-SUFFIX,gist.github.com
+
 // Others
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,bloomberg.com
+
