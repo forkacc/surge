@@ -2,14 +2,24 @@
 // PROCESS-NAME,/Applications/NeteaseMusic.app/Contents/MacOS/NeteaseMusic // NeteaseMusic (MacOS App)
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,music.163.com
-DOMAIN-SUFFIX,music.126.net
-DOMAIN-SUFFIX,dun.163yun.com // Added for webpage: ac.dun.163yun.com:443
-DOMAIN-SUFFIX,netease.im // Added for webpage: wfd.netease.im:443
-DOMAIN-SUFFIX,iplay.163.com // Added for webpage: api.iplay.163.com:443
+DOMAIN-SUFFIX,music.126.net   // Added for: p1.music.126.net:443
+DOMAIN-SUFFIX,netease.im      // Added for webpage: wfd.netease.im:443
+DOMAIN-SUFFIX,vod.126.net     // Added for: vodkgeyttp9c.vod.126.net:443
+DOMAIN-SUFFIX,iplay.163.com   // Added for webpage: api.iplay.163.com:443
+DOMAIN-SUFFIX,dun.163yun.com  // Added for webpage: ac.dun.163yun.com:443
+DOMAIN-SUFFIX,cacerts.digicert.com
 
-// Aliyun
+// Tencent
+DOMAIN-SUFFIX,mazu.m.qq.com   // Added for: mazu.m.qq.com:443
+DOMAIN,szminorshort.weixin.qq.com // Added for webpage: http://szminorshort.weixin.qq.com/mmtls/1f3a2db4
+
+// Ali
+DOMAIN-SUFFIX,taobao.com      // Added for: atoken.m.taobao.com:443
 DOMAIN-SUFFIX,aliyundrive.com // Added for webpage: api.aliyundrive.com:443
+DOMAIN-SUFFIX,alicdn.com      // Added for: heic.alicdn.com:443
 
 // Others
+DOMAIN-SUFFIX,biyao.com
 DOMAIN-SUFFIX,qnsdk.com
 DOMAIN-SUFFIX,wanjushuo.wang
+DOMAIN-SUFFIX,locklauncher.com,CN-CVM // Added for: locklauncher.com:443
