@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,adashx.m.taobao.com
 DOMAIN-SUFFIX,h-adashx.ut.taobao.com // Added for webpage: h-adashx.ut.taobao.com:443
 DOMAIN-SUFFIX,mpush-api.aliyun.com // Added for webpage: mpush-api.aliyun.com:443
 DOMAIN-SUFFIX,alicloudccp.com // Added for webpage: bj29.cn-beijing.data.alicloudccp.com:443
+DOMAIN-SUFFIX,alibabachengdun.com // Added for: acs-mum.alibabachengdun.com:443
 
 // Xiaomi
 DOMAIN-SUFFIX,mistat.intl.xiaomi.com
@@ -71,6 +72,7 @@ DOMAIN-SUFFIX,umengcloud.com
 // Netease
 DOMAIN,mam.netease.com
 DOMAIN-SUFFIX,127.net
+DOMAIN-SUFFIX,crush.163.com // Added for: api.crush.163.com:443
 
 // CN
 DOMAIN-SUFFIX,jpush.cn
@@ -78,6 +80,8 @@ DOMAIN-SUFFIX,ebjvu.cn
 DOMAIN-SUFFIX,immob.cn
 
 // Others
+DOMAIN-SUFFIX,bloomad.cn // Added for: cfg.bloomad.cn:443
+DOMAIN-SUFFIX,gz-data.com
 DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,jpush.binance.im
 DOMAIN-SUFFIX,talk.getui.net
