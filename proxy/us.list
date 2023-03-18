@@ -6,11 +6,19 @@ DOMAIN-SUFFIX,telegra.ph
 
 // Twitter
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com           // Added for: video.twimg.com:443
 
 // GitHub
 DOMAIN-SUFFIX,github.githubusercontent.com
 DOMAIN-SUFFIX,github.githubassets.com
 DOMAIN-SUFFIX,gist.github.com
+
+// OpenAI
+DOMAIN-SUFFIX,api.openai.com      // Added for: api.openai.com:443
+
+// Disqus
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
 
 // Others
 DOMAIN-SUFFIX,quora.com
