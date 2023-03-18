@@ -1,5 +1,11 @@
+// Custom Domain
+DOMAIN-SUFFIX,anonid.me
+
 // BNYM
 DOMAIN-SUFFIX,bnymellon.com
+
+// Proton
+DOMAIN-SUFFIX,proton.me
 
 // Github
 DOMAIN,forkacc.github.io
@@ -17,7 +23,6 @@ DOMAIN,api.dropbox.com // Added for webpage: api.dropbox.com:443
 DOMAIN,api-content.dropbox.com // Added for webpage: api-content.dropbox.com:443
 DOMAIN,notify.dropboxapi.com // Added for webpage: notify.dropboxapi.com:443
 DOMAIN,client.dropbox.com
-
 
 // Google
 // PROCESS-NAME,/Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync // Backup and Sync (MacOS App)
