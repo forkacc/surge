@@ -18,6 +18,11 @@ DOMAIN-SUFFIX,taobao.com      // Added for: atoken.m.taobao.com:443
 DOMAIN-SUFFIX,aliyundrive.com // Added for webpage: api.aliyundrive.com:443
 DOMAIN-SUFFIX,alicdn.com      // Added for: heic.alicdn.com:443
 
+// Ximalaya
+DOMAIN-SUFFIX,ximalaya.com,CN-CVM
+DOMAIN-SUFFIX,xmcdn.com,CN-CVM
+DOMAIN-SUFFIX,cnmstl.net,CN-CVM
+
 // Others
 DOMAIN-SUFFIX,biyao.com
 DOMAIN-SUFFIX,qnsdk.com
