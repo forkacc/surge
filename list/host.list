@@ -1,0 +1,16 @@
+*.google.com = server:8.8.8.8
+*.youtube.com = server:8.8.8.8
+*.twitter.com = server:8.8.8.8
+
+*.proton.me = server:1.1.1.1
+*.duckduckgo.com = server:1.1.1.1
+*.github.com = server:1.1.1.1
+*.dropbox.com = server:1.1.1.1
+
+*.cn = server:119.29.29.29
+*.qq.com = server:119.29.29.29
+*.jd.com = server:119.29.29.29
+*.taobao.com = server:223.5.5.5
+*.tmall.com = server:223.5.5.5
+*.alipay.com = server:223.5.5.5
+*.aliyun.com = server:223.5.5.5
