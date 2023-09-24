@@ -23,4 +23,4 @@ DOMAIN-SUFFIX,disquscdn.com
 // Others
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,bloomberg.com
-
+DOMAIN-SUFFIX,api.weibo.cn       // Added for: api.weibo.cn:443
