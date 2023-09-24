@@ -7,11 +7,14 @@ DOMAIN-SUFFIX,netease.im      // Added for webpage: wfd.netease.im:443
 DOMAIN-SUFFIX,vod.126.net     // Added for: vodkgeyttp9c.vod.126.net:443
 DOMAIN-SUFFIX,iplay.163.com   // Added for webpage: api.iplay.163.com:443
 DOMAIN-SUFFIX,dun.163yun.com  // Added for webpage: ac.dun.163yun.com:443
-DOMAIN-SUFFIX,cacerts.digicert.com
+DOMAIN-SUFFIX,digicert.com    // Added for: http://ocsp.digicert.com
+DOMAIN-SUFFIX,trust-provider.cn // Added for: http://crt.trust-provider.cn
+DOMAIN-SUFFIX,163jiasu.com      // Added for: http://interface3.music.163.com
 
 // Tencent
 DOMAIN-SUFFIX,mazu.m.qq.com   // Added for: mazu.m.qq.com:443
 DOMAIN,szminorshort.weixin.qq.com // Added for webpage: http://szminorshort.weixin.qq.com/mmtls/1f3a2db4
+DOMAIN-SUFFIX,dns.weixin.qq.com   // Added for: dns.weixin.qq.com:8080
 
 // Ali
 DOMAIN-SUFFIX,taobao.com      // Added for: atoken.m.taobao.com:443
@@ -19,12 +22,14 @@ DOMAIN-SUFFIX,aliyundrive.com // Added for webpage: api.aliyundrive.com:443
 DOMAIN-SUFFIX,alicdn.com      // Added for: heic.alicdn.com:443
 
 // Ximalaya
-DOMAIN-SUFFIX,ximalaya.com,CN-CVM
-DOMAIN-SUFFIX,xmcdn.com,CN-CVM
-DOMAIN-SUFFIX,cnmstl.net,CN-CVM
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com
+DOMAIN-SUFFIX,cnmstl.net      // Added for: webcert.cnmstl.net:443
 
 // Others
 DOMAIN-SUFFIX,biyao.com
 DOMAIN-SUFFIX,qnsdk.com
 DOMAIN-SUFFIX,wanjushuo.wang
 DOMAIN-SUFFIX,locklauncher.com,CN-CVM // Added for: locklauncher.com:443
+DOMAIN-SUFFIX,qlogo.cn,CN-CVM // Added for: thirdwx.qlogo.cn:443
+DOMAIN-SUFFIX,qhimg.com,CN-CVM // Added for: jspassport.ssl.qhimg.com:443
