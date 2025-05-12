@@ -13,6 +13,7 @@
 # dig A hello.lazycat.cloud // expected normal IP like 43.139.3.150 not 198.x.x.x
 # ip route get 6.6.6.6 // expect normal IP like 43.139.3.150 not 198.18.0.1 ...etc
 
+
 [General]
 # > 跳过代理
 # 跳过某个域名或者 IP 段，这些目标主机将不会由 Surge Proxy 处理。
@@ -26,9 +27,10 @@ PROCESS-NAME,/Applications/懒猫微服.app/Contents/MacOS/懒猫微服,DIRECT
 
 
 [Host]
-*.heiyu.space = server:fc03:1136:3800::1 // lazycat
-*.heiyu.space = server:system
-lazycat.cloud = server:system
-*.lazycat.cloud = server:system
-lazycatmicroserver.com = server:system
-*.lazycatmicroserver.com = server:system
+*.heiyu.space = server:fc03:1136:3800::1
+*.heiyu.space = server:2000::6666
+*.heiyu.space = server:6.6.6.6
+*.lazycat.cloud = server:2000::6666
+*.lazycat.cloud = server:6.6.6.6
+*.lazycatmicroserver.com = server:2000::6666
+*.lazycatmicroserver.com = server:6.6.6.6
