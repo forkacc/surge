@@ -31,7 +31,10 @@ PROCESS-NAME,/Applications/懒猫微服.app/Contents/MacOS/懒猫微服,DIRECT
 *.heiyu.space = server:fc03:1136:3800::1
 *.heiyu.space = server:2000::6666
 *.heiyu.space = server:6.6.6.6
+*.heiyu.space = server:system
 *.lazycat.cloud = server:2000::6666
 *.lazycat.cloud = server:6.6.6.6
+*.lazycat.cloud = server:system
 *.lazycatmicroserver.com = server:2000::6666
 *.lazycatmicroserver.com = server:6.6.6.6
+*.lazycatmicroserver.com = server:system
