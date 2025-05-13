@@ -1,3 +1,8 @@
+#!name=CN-DNS
+#!desc=CN DNS
+#!author=xxx
+#!homepage=https://github.com/forkacc/surge/blob/master/module/cn-dns.sgmodule
+
 [Host]
 *.cn = server:119.29.29.29
 *.qq.com = server:119.29.29.29
