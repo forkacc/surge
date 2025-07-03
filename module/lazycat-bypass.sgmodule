@@ -18,14 +18,18 @@
 # > 跳过代理
 # 跳过某个域名或者 IP 段，这些目标主机将不会由 Surge Proxy 处理。
 # (macOS 版本中，如果启用了 Set as System Proxy, 这些值会被写入到系统网络代理设置.)
-skip-proxy = %APPEND%, *.heiyu.space, *.lazycat.cloud, 6.6.6.6/32, 2000::6666/128, fc03:1136:3800::/40
-
+ipv6 = true
+ipv6-vif = auto
+always-real-ip = %APPEND% *.heiyu.space, *.lazycat.cloud
+always-raw-tcp-hosts = %APPEND% *.heiyu.space, *.lazycat.cloud
+skip-proxy = %APPEND% *.heiyu.space, *.lazycat.cloud, 6.6.6.6/32, 2000::6666/128, fc03:1136:3800::/40
+tun-excluded-routes = %APPEND% 6.6.6.6/32, 2000::6666/128
 
 [Rule]
 DOMAIN-SUFFIX,heiyu.space,DIRECT // LazyCat Tunnel
 PROCESS-NAME,/Applications/懒猫微服.app/Contents/Resources/core/lzc-core.darwin,DIRECT
 PROCESS-NAME,/Applications/懒猫微服.app/Contents/MacOS/懒猫微服,DIRECT
-
+IP-CIDR6,fc03:1136:3800::/40,DIRECT,no-resolve
 
 [Host]
 *.heiyu.space = server:fc03:1136:3800::1
