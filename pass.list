@@ -1,9 +1,3 @@
-// Custom Domain
-DOMAIN-SUFFIX,anonid.me
-
-// BNYM
-DOMAIN-SUFFIX,bnymellon.com
-
 // Proton
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,protonvpn.com
