@@ -1,0 +1,24 @@
+
+DOMAIN-SUFFIX,ximalaya.com // Added for: xuid-server.ximalaya.com:443
+DOMAIN-SUFFIX,zztfly.com // Added for: upc.zztfly.com:443
+DOMAIN-SUFFIX,xmcdn.com // Added for: audiopay.cos.tx.xmcdn.com:443
+DOMAIN-SUFFIX,ocsp.digicert.com // Added for: http://ocsp.digicert.com/ME8wTTBLMEkwRzAHBgUrDgMCGgQUOdKLcf4dGbZfs%2FEojyO8BFlcQ5UEFE4iVCAYlebjbuYP%2Bvq5Eu0GF485AhAE8i7MIfy0OCrCi48tZB%2FA
+DOMAIN-SUFFIX,ahdohpiechei.com // Added for: 982546243.ahdohpiechei.com:22443
+DOMAIN-SUFFIX,bdurl.net // Added for: dig.bdurl.net:443
+IP-CIDR,43.152.135.175/32 // Added for: 43.152.135.175:443
+IP-CIDR,43.231.145.10/32 // Added for: 43.231.145.10:5224
+IP-CIDR,101.89.45.109/32 // Added for: 101.89.45.109:3815
+IP-CIDR,101.89.53.159/32 // Added for: 101.89.53.159:3815
+IP-CIDR,101.89.54.147/32 // Added for: 101.89.54.147:3815
+IP-CIDR,101.91.134.15/32 // Added for: 101.91.134.15:443
+IP-CIDR,101.91.134.52/32 // Added for: 101.91.134.52:443
+IP-CIDR,101.91.134.57/32 // Added for: 101.91.134.57:12751
+IP-CIDR,101.91.134.59/32 // Added for: 101.91.134.59:443
+IP-CIDR,101.91.134.184/32 // Added for: 101.91.134.184:443
+IP-CIDR,101.91.134.208/32 // Added for: 101.91.134.208:443
+IP-CIDR,101.91.134.233/32 // Added for: 101.91.134.233:443
+IP-CIDR,101.91.134.246/32 // Added for: 101.91.134.246:443
+IP-CIDR,180.163.28.147/32 // Added for: 180.163.28.147:3815
+IP-CIDR,180.163.28.231/32 // Added for: 180.163.28.231:3815
+IP-CIDR,180.163.29.99/32 // Added for: 180.163.29.99:3814
+IP-CIDR,211.152.148.249/32 // Added for: 211.152.148.249:443
