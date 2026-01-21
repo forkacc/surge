@@ -1,0 +1,13 @@
+
+// Netease
+// PROCESS-NAME,/Applications/NeteaseMusic.app/Contents/MacOS/NeteaseMusic // NeteaseMusic (MacOS App)
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,music.126.net // Added for: p1.music.126.net:443
+DOMAIN-SUFFIX,netease.im // Added for webpage: wfd.netease.im:443
+DOMAIN-SUFFIX,vod.126.net // Added for: vodkgeyttp9c.vod.126.net:443
+DOMAIN-SUFFIX,iplay.163.com // Added for webpage: api.iplay.163.com:443
+DOMAIN-SUFFIX,dun.163yun.com // Added for webpage: ac.dun.163yun.com:443
+DOMAIN-SUFFIX,digicert.com // Added for: http://ocsp.digicert.com
+DOMAIN-SUFFIX,trust-provider.cn // Added for: http://crt.trust-provider.cn
+DOMAIN-SUFFIX,163jiasu.com // Added for: http://interface3.music.163.com

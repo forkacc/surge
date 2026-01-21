@@ -1,0 +1,5 @@
+
+// Tencent
+DOMAIN-SUFFIX,mazu.m.qq.com   // Added for: mazu.m.qq.com:443
+DOMAIN,szminorshort.weixin.qq.com // Added for webpage: http://szminorshort.weixin.qq.com/mmtls/1f3a2db4
+DOMAIN-SUFFIX,dns.weixin.qq.com   // Added for: dns.weixin.qq.com:8080
