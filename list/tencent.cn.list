@@ -1,5 +1,11 @@
 
 // Tencent
-DOMAIN-SUFFIX,mazu.m.qq.com   // Added for: mazu.m.qq.com:443
+DOMAIN,mazu.m.qq.com   // Added for: mazu.m.qq.com:443
+DOMAIN,sgminorshort.wechat.com // Added for: http://sgminorshort.wechat.com/mmtls/24c3be18
 DOMAIN,szminorshort.weixin.qq.com // Added for webpage: http://szminorshort.weixin.qq.com/mmtls/1f3a2db4
-DOMAIN-SUFFIX,dns.weixin.qq.com   // Added for: dns.weixin.qq.com:8080
+DOMAIN,dns.weixin.qq.com // Added for: dns.weixin.qq.com:80
+DOMAIN,doh.pub // Added for: doh.pub:443
+
+IP-CIDR,43.160.156.39/32 // Added for: http://43.160.156.39/mmtls/5d58a247
+IP-CIDR,43.159.158.88/32 // Added for: http://43.159.158.88/mmtls/5d5860a0
+IP-CIDR,43.159.158.242/32 // Added for: 43.159.158.242:80

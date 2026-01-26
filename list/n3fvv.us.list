@@ -1,4 +1,11 @@
 
+DOMAIN,gooqlevideo.xyz
+DOMAIN,static.hotjar.com
+DOMAIN,script.hotjar.com
+DOMAIN,vars.hotjar.com
+DOMAIN,pics.dmm.co.jp
+DOMAIN,mc.yandex.ru
+DOMAIN,www.embed.media
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avgle.io
 DOMAIN-SUFFIX,avjoy.me
@@ -29,10 +36,3 @@ DOMAIN-SUFFIX,fvs.io
 DOMAIN-SUFFIX,riverhit.com
 DOMAIN-SUFFIX,javmost.com
 DOMAIN-SUFFIX,histats.com
-DOMAIN,gooqlevideo.xyz
-DOMAIN,static.hotjar.com
-DOMAIN,script.hotjar.com
-DOMAIN,vars.hotjar.com
-DOMAIN,pics.dmm.co.jp
-DOMAIN,mc.yandex.ru
-DOMAIN,www.embed.media

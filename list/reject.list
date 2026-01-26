@@ -203,3 +203,16 @@ DOMAIN-SUFFIX,traffic.uusee.com
 DOMAIN-SUFFIX,union.6.cn
 DOMAIN-SUFFIX,wa.gtimg.com
 DOMAIN-SUFFIX,bfshan.cn
+
+// Ximalaya
+DOMAIN,adse.ximalaya.com // Added for: adse.ximalaya.com:443
+DOMAIN,ad-incentive.ximalaya.com // Added for: ad-incentive.ximalaya.com:443
+DOMAIN,xdcs-collector.ximalaya.com // Added for: xdcs-collector.ximalaya.com:443
+
+// umeng
+DOMAIN,ulogs.umengcloud.com // Added for: ulogs.umengcloud.com:443
+DOMAIN,ulogs.umeng.com // Added for: ulogs.umeng.com:443
+DOMAIN,errnewlog.umeng.com // Added for: errnewlog.umeng.com:443
+
+// Trading View
+DOMAIN,telemetry.tradingview.com // Added for: telemetry.tradingview.com:443

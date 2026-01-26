@@ -1,0 +1,31 @@
+
+// DNS
+IP-CIDR,114.114.114.114/32 // Added for: 114.114.114.114:53 (Port Map)
+
+// Google
+DOMAIN,oauthaccountmanager.googleapis.com // Added for: oauthaccountmanager.googleapis.com:443
+
+// Dropbox
+DOMAIN,api-content.dropbox.com // Added for: api-content.dropbox.com:443
+DOMAIN-SUFFIX,dropboxapi.com // Added for: notify.dropboxapi.com:443
+DOMAIN-SUFFIX,api.dropbox.com // Added for: api.dropbox.com:443
+
+// ICBC
+DOMAIN,pageviewp.icbc.com.cn // Added for: pageviewp.icbc.com.cn:443
+DOMAIN,mimscmp.icbc.com.cn // Added for: mimscmp.icbc.com.cn:80
+DOMAIN,mobileapm.icbc.com.cn // Added for: mobileapm.icbc.com.cn:443
+DOMAIN,epass.icbc.com.cn // Added for: epass.icbc.com.cn:443
+DOMAIN,einfo.icbc.com.cn // Added for: einfo.icbc.com.cn:443
+DOMAIN,oisc.icbc.com.cn // Added for: oisc.icbc.com.cn:443
+DOMAIN,devreaf.icbc.com.cn // Added for: devreaf.icbc.com.cn:8098
+DOMAIN,mywap2.icbc.com.cn // Added for: mywap2.icbc.com.cn:443
+DOMAIN,tic.eiop.icbc.com.cn // Added for: tic.eiop.icbc.com.cn:443
+
+// Translate
+DOMAIN,open.bigmodel.cn // Added for: open.bigmodel.cn:443
+
+// Deepseek
+DOMAIN,api.deepseek.com // Added for: api.deepseek.com:443
+
+// Trading View
+DOMAIN,quotes.tradingview.com // Added for: quotes.tradingview.com:443

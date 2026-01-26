@@ -1,1 +1,7 @@
 
+DOMAIN,time.apple.com // Added for: time.apple.com:123
+DOMAIN-SUFFIX,apple.com // Added for: configuration.apple.com:443
+DOMAIN-SUFFIX,cdn-apple.com // Added for: app-site-association.cdn-apple.com:443
+DOMAIN-SUFFIX,me.com // Added for: p46-imap.mail.me.com:993
+DOMAIN-SUFFIX,icloud.com // Added for: mask.icloud.com:443
+IP-CIDR,17.248.194.64/32 // Added for: 17.248.194.64:443 (gateway.icloud.com)
