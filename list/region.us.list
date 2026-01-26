@@ -1,3 +1,4 @@
+
 // Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.com
 
@@ -20,7 +21,17 @@ DOMAIN-SUFFIX,api.openai.com      // Added for: api.openai.com:443
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 
+// Baidu US
+//PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/Frameworks/BaiduNetdisk_mac Helper.app/Contents/MacOS/BaiduNetdisk_mac Helper
+//DOMAIN-SUFFIX,baidu.com
+//DOMAIN-SUFFIX,bdimg.com
+//DOMAIN-SUFFIX,bdimg.com
+//DOMAIN-SUFFIX,bdstatic.com
+//DOMAIN-SUFFIX,bcebos.com
+//DOMAIN-SUFFIX,nsclick.baidu.com
+
 // Others
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,api.weibo.cn       // Added for: api.weibo.cn:443
+DOMAIN,sgshort.wechat.com // Added for: http://sgshort.wechat.com/mmtls/05d89e50

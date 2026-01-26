@@ -1,5 +1,7 @@
 
 // Tencent
+USER-AGENT,WeChat*
+
 DOMAIN,mazu.m.qq.com   // Added for: mazu.m.qq.com:443
 DOMAIN,sgminorshort.wechat.com // Added for: http://sgminorshort.wechat.com/mmtls/24c3be18
 DOMAIN,szminorshort.weixin.qq.com // Added for webpage: http://szminorshort.weixin.qq.com/mmtls/1f3a2db4

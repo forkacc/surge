@@ -2,13 +2,50 @@
 // DNS
 IP-CIDR,114.114.114.114/32 // Added for: 114.114.114.114:53 (Port Map)
 
+// Spark & Email
+DOMAIN,app.smartmailcloud.com // Spark
+DOMAIN,imap.gmail.com // IMAP Gmail
+DOMAIN,imap-mail.outlook.com // IMAP Outlook
+
+// Proton
+DOMAIN,api.protonmail.ch
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonvpn.com
+
+// Github
+DOMAIN,forkacc.github.io
+DOMAIN,api.github.com
+DOMAIN,raw.githubusercontent.com
+
 // Google
+// PROCESS-NAME,/Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync // Backup and Sync (MacOS App)
+DOMAIN,fcmconnection.googleapis.com // Google Drive
+DOMAIN,www.googleapis.com
+DOMAIN,ajax.googleapis.com
+DOMAIN,fonts.googleapis.com
+DOMAIN,maps.googleapis.com
+DOMAIN,fonts.gstatic.com
+DOMAIN,inbox.google.com
 DOMAIN,oauthaccountmanager.googleapis.com // Added for: oauthaccountmanager.googleapis.com:443
 
 // Dropbox
+// PROCESS-NAME,/Applications/Dropbox.app/Contents/MacOS/Dropbox // Dropbox (MacOS App)
+DOMAIN,api.dropbox.com
+DOMAIN,dropboxapi.com
+DOMAIN,client.dropbox.com
+DOMAIN,notify.dropboxapi.com // Added for webpage: notify.dropboxapi.com:443
 DOMAIN,api-content.dropbox.com // Added for: api-content.dropbox.com:443
-DOMAIN-SUFFIX,dropboxapi.com // Added for: notify.dropboxapi.com:443
-DOMAIN-SUFFIX,api.dropbox.com // Added for: api.dropbox.com:443
+
+// Amazon
+DOMAIN,api.amazon.com
+DOMAIN-SUFFIX,cloudfront.net
+
+// WeChat
+DOMAIN,mp.weixin.qq.com
+
+// Weibo
+DOMAIN,api.weibo.cn
+DOMAIN-SUFFIX,sinaimg.cn
 
 // ICBC
 DOMAIN,pageviewp.icbc.com.cn // Added for: pageviewp.icbc.com.cn:443
@@ -29,3 +66,10 @@ DOMAIN,api.deepseek.com // Added for: api.deepseek.com:443
 
 // Trading View
 DOMAIN,quotes.tradingview.com // Added for: quotes.tradingview.com:443
+
+// js cdn
+DOMAIN,cdnjs.cloudflare.com
+DOMAIN,cdn.jsdelivr.net
+
+// Others
+DOMAIN-SUFFIX,mugglecoding.com
