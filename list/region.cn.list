@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,wanjushuo.wang
 DOMAIN-SUFFIX,locklauncher.com // Added for: locklauncher.com:443
 DOMAIN-SUFFIX,qlogo.cn // Added for: thirdwx.qlogo.cn:443
 DOMAIN-SUFFIX,qhimg.com // Added for: jspassport.ssl.qhimg.com:443
+DOMAIN-SUFFIX,ebjvu.cn
+DOMAIN-SUFFIX,immob.cn
 
 // Blockchain
 //DOMAIN-SUFFIX,binance.com // Added for webpage: accounts.binance.com:443

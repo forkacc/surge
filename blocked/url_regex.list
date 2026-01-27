@@ -1,6 +1,0 @@
-# URL-REGEX,ad\..*
-URL-REGEX,ads.*
-URL-REGEX,analytics?\..*
-URL-REGEX,logs?\..*
-URL-REGEX,stat\..*
-URL-REGEX,id\.google\..*

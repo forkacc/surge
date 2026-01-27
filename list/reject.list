@@ -1,5 +1,6 @@
 
-// url regex
+// URL REGEX
+# URL-REGEX,ad\..*
 URL-REGEX,ads?\..*
 URL-REGEX,adservice\..*
 URL-REGEX,analytics?\..*
@@ -34,6 +35,70 @@ DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 
 // ADs
+DOMAIN-SUFFIX,adsubon.com
+DOMAIN-SUFFIX,instantresp.com
+DOMAIN-SUFFIX,fstats.xyz
+DOMAIN-SUFFIX,rtmark.net
+DOMAIN-SUFFIX,free-girls-vids.com
+DOMAIN-SUFFIX,bebreloomr.com
+DOMAIN-SUFFIX,sg2rgnza7k9t.com
+DOMAIN-SUFFIX,nr-data.net
+DOMAIN-SUFFIX,gearbest.com
+DOMAIN-SUFFIX,logsss.com
+DOMAIN-SUFFIX,prpops.com
+DOMAIN-SUFFIX,watchmygirlfriend.to
+DOMAIN-SUFFIX,lofv.xyz
+DOMAIN-SUFFIX,popmonetizer.net
+DOMAIN-SUFFIX,zeusadx.com
+DOMAIN-SUFFIX,popads.net
+DOMAIN-SUFFIX,special-offers.online
+DOMAIN-SUFFIX,dtscout.com
+DOMAIN-SUFFIX,trackthetides.club
+DOMAIN-SUFFIX,kaipirinhaloka.xyz
+DOMAIN-SUFFIX,auxml.com
+DOMAIN-SUFFIX,jeinvegpool.com
+DOMAIN-SUFFIX,veviopass.com
+DOMAIN-SUFFIX,zap.buzz
+DOMAIN-SUFFIX,adexchangesrv.com
+DOMAIN-SUFFIX,adrunnr.com
+DOMAIN-SUFFIX,milfsurvey.com
+DOMAIN-SUFFIX,exosrv.com
+DOMAIN-SUFFIX,ie8eamus.com
+DOMAIN-SUFFIX,adsco.re
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,eyeota.net
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,adsymptotic.com
+DOMAIN-SUFFIX,doyourmove.com
+DOMAIN-SUFFIX,gtarcade.com
+DOMAIN-SUFFIX,gearbest.com
+DOMAIN-SUFFIX,protoawe.com
+DOMAIN-SUFFIX,t7rsx24c5.com
+DOMAIN-SUFFIX,bongacams.com
+DOMAIN-SUFFIX,onelink.me
+DOMAIN-SUFFIX,olmsoneenh.info
+DOMAIN-SUFFIX,adxadserv.com
+DOMAIN-SUFFIX,madratesforall.com
+DOMAIN-SUFFIX,juicyads.com
+DOMAIN-SUFFIX,ougdqjentmp.com
+DOMAIN-SUFFIX,amung.us
+DOMAIN-SUFFIX,tynt.com
+DOMAIN-SUFFIX,ofphanpytor.com
+DOMAIN-SUFFIX,zop381q5o0q1.com
+DOMAIN-SUFFIX,uzk4umokyri3.com
+DOMAIN-SUFFIX,nonecss.com
+DOMAIN-SUFFIX,terrapsps.com
+DOMAIN-SUFFIX,x9b05t5jsqje.com
+DOMAIN-SUFFIX,cjf25jklrwqt.com
+DOMAIN-SUFFIX,6bgaput9ullc.com
+DOMAIN-SUFFIX,asewlfjqwlflkew.com
+DOMAIN-SUFFIX,bsoswwiwzs.com
+DOMAIN-SUFFIX,xjijqczj.com
+DOMAIN-SUFFIX,g.doubleclick.net
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,inorcelliana.info
+DOMAIN-SUFFIX,virallupdates.com
+DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,yearnstocking.com
 DOMAIN-SUFFIX,hopefullyfloss.com
