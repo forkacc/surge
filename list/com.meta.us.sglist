@@ -1,0 +1,8 @@
+
+// Meta
+DOMAIN,www.facebook.com // Added for: www.facebook.com:443
+DOMAIN,ep2.facebook.com // Added for: ep2.facebook.com:443
+DOMAIN,graph.facebook.com // Added for: graph.facebook.com:443
+DOMAIN,applink.instagram.com // Added for: applink.instagram.com:443
+DOMAIN,www.instagram.com // Added for: www.instagram.com:443
+DOMAIN-SUFFIX,cdninstagram.com // Added for: static.cdninstagram.com:443

@@ -1,0 +1,18 @@
+
+// Robinhood
+DOMAIN,api.robinhood.com // Added for: api.robinhood.com:443
+DOMAIN,bonfire.robinhood.com // Added for: bonfire.robinhood.com:443
+DOMAIN,crumbs.robinhood.com // Added for: crumbs.robinhood.com:443
+DOMAIN,cdn.robinhood.com // Added for: cdn.robinhood.com:443
+DOMAIN,minerva.robinhood.com // Added for: minerva.robinhood.com:443
+DOMAIN,nummus.robinhood.com // Added for: nummus.robinhood.com:443
+
+// TradingView
+DOMAIN,www.tradingview.com // Added for: www.tradingview.com:443
+DOMAIN,static.tradingview.com // Added for: static.tradingview.com:443
+DOMAIN,quotes.tradingview.com // Added for: quotes.tradingview.com:443
+DOMAIN,data.tradingview.com // Added for: data.tradingview.com:443
+DOMAIN,mobile-data.tradingview.com // Added for: mobile-data.tradingview.com:443
+DOMAIN,notifications.tradingview.com // Added for: notifications.tradingview.com:443
+DOMAIN,charts-storage.tradingview.com // Added for: charts-storage.tradingview.com:443
+DOMAIN,pricealerts.tradingview.com // Added for: pricealerts.tradingview.com:443

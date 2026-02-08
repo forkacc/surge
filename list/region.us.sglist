@@ -2,33 +2,14 @@
 // Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.com
 
-// Telegram
-DOMAIN-SUFFIX,telegra.ph
-
-// Twitter
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twimg.com           // Added for: video.twimg.com:443
-
-// GitHub
-DOMAIN-SUFFIX,github.githubusercontent.com
-DOMAIN-SUFFIX,github.githubassets.com
-DOMAIN-SUFFIX,gist.github.com
-
-// OpenAI
-DOMAIN-SUFFIX,api.openai.com      // Added for: api.openai.com:443
+// 1point3acres
+DOMAIN,www.1point3acres.com // Added for: www.1point3acres.com:443
+DOMAIN-SUFFIX,1p3a.com,US-BWG // Added for: dicebear.1p3a.com:443
+DOMAIN-SUFFIX,api.1point3acres.cn // Added for: api.1point3acres.cn:443
 
 // Disqus
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
-
-// Baidu US
-//PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/Frameworks/BaiduNetdisk_mac Helper.app/Contents/MacOS/BaiduNetdisk_mac Helper
-//DOMAIN-SUFFIX,baidu.com
-//DOMAIN-SUFFIX,bdimg.com
-//DOMAIN-SUFFIX,bdimg.com
-//DOMAIN-SUFFIX,bdstatic.com
-//DOMAIN-SUFFIX,bcebos.com
-//DOMAIN-SUFFIX,nsclick.baidu.com
 
 // Others
 DOMAIN-SUFFIX,quora.com

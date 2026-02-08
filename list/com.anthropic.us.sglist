@@ -1,0 +1,8 @@
+
+
+DOMAIN,claude.ai // Added for: claude.ai:443
+DOMAIN,claude.com // Added for: claude.com:443
+DOMAIN,a-api.anthropic.com // Added for: a-api.anthropic.com:443
+DOMAIN,www.anthropic.com // Added for: www.anthropic.com:443
+DOMAIN,a-cdn.anthropic.com // Added for: a-cdn.anthropic.com:443
+DOMAIN,statsig.anthropic.com // Added for: statsig.anthropic.com:443

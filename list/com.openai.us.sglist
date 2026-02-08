@@ -1,0 +1,6 @@
+
+DOMAIN-SUFFIX,api.openai.com // Added for: api.openai.com:443
+DOMAIN-SUFFIX,chat.openai.com,US-BWG // Added for: ios.chat.openai.com:443
+DOMAIN,ws.chatgpt.com,US-BWG // Added for: ws.chatgpt.com:443
+DOMAIN,ab.chatgpt.com,US-BWG // Added for: ab.chatgpt.com:443
+DOMAIN,realtime.chatgpt.com,US-BWG // Added for: realtime.chatgpt.com:443

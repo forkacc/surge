@@ -1,0 +1,16 @@
+
+// Twitter
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com           // Added for: video.twimg.com:443
+
+DOMAIN,jf.x.com // Added for: jf.x.com:443
+DOMAIN,probe.twitter.com // Added for: probe.twitter.com:443
+DOMAIN-SUFFIX,twimg.com // Added for: pbs.twimg.com:443
+DOMAIN-SUFFIX,x.com // Added for: jf.x.com:443
+DOMAIN,api.x.com // Added for: api.x.com:443
+DOMAIN,api-stream.twitter.com // Added for: api-stream.twitter.com:443
+DOMAIN,video.twimg.com // Added for: video.twimg.com:443
+DOMAIN,video-s.twimg.com // Added for: video-s.twimg.com:443
+DOMAIN,pbs.twimg.com // Added for: pbs.twimg.com:443
+DOMAIN,abs.twimg.com // Added for: abs.twimg.com:443
+DOMAIN,ton.twitter.com,US-BWG // Added for: ton.twitter.com:443
